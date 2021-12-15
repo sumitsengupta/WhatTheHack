@@ -1,2 +1,3 @@
-create user C##WTH identified by OCP... ;
-grant connect, resource, dba to C##WTH ;
+CREATE USER c##contosoapp  identified by OCPHack8 ;
+
+GRANT DBA to  c##contosoapp ;
